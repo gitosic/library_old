@@ -36,10 +36,6 @@ public class SimpleArray<E> implements Simple<E> {
         return false;
     }
 
-    @Override
-    public <T> boolean addAll(Collection<? super T> c, T... elements) {
-        return false;
-    }
 
     @Override
     public void delete(int index) {
