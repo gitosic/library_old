@@ -11,6 +11,9 @@ public class SimpleArray<E> implements Simple<E> {
         strings.add("Два");
         strings.add("Три");
 
+        System.out.println();
+        System.out.println();
+
         strings.update(1, "Update");
         System.out.println(strings.get(1));
         System.out.println(strings.size());
