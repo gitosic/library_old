@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1487c371-d24d-44cb-9f41-b1318e043622" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/docs/Билеты__Москва_→_Астрахань_(15.12.2019).zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UjgMyFyBsCCsaOynD3LKGQRfLm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/docs" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1487c371-d24d-44cb-9f41-b1318e043622" name="Default Changelist" comment="" />
+      <created>1575875374914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575875374914</updated>
+      <workItem from="1575875379291" duration="881000" />
+    </task>
+    <task id="LOCAL-00001" summary="#1">
+      <created>1575876820889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575876820889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#1" />
+    <option name="LAST_COMMIT_MESSAGE" value="#1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="47" key="CommitChangelistDialog2" timestamp="1575876820541">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="336" y="47" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1575876820541" />
+    <state x="500" y="316" key="Github.ShareDialog" timestamp="1575876782292">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="500" y="316" key="Github.ShareDialog/0.23.1440.819@0.23.1440.819" timestamp="1575876782292" />
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1575876834303">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1575876834303" />
+    <state x="97" y="136" key="new project wizard" timestamp="1575876967688">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="97" y="136" key="new project wizard/0.23.1440.819@0.23.1440.819" timestamp="1575876967688" />
+  </component>
+</project>
