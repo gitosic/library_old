@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50f86aea-bb20-46d6-bc25-47b1022a8ac1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/demotest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/TEST/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/config/WebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/service/TestBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/java/com/vebinar/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../151219/demotest/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../untitled1/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VWlYGxixxynevefJwQt5w5nU2X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.20875" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mywork.Test" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mywork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f86aea-bb20-46d6-bc25-47b1022a8ac1" name="Default Changelist" comment="" />
+      <created>1577376777636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577376777636</updated>
+      <workItem from="1577376782255" duration="788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="31" key="SettingsEditor" timestamp="1577377203941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577377203941" />
+  </component>
+</project>
