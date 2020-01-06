@@ -11,4 +11,5 @@
 	<body>
 		<h1>free page</h1>
 	</body>
+	<a href="/">Index page</a>
 </html>

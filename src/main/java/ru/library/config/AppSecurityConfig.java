@@ -20,15 +20,18 @@ public class AppSecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Override
 	protected void configure(HttpSecurity http) throws Exception {
+		http.csrf().disable();
 
 		http.authorizeRequests()
 				.antMatchers("/protected/**").access("hasRole('ROLE_ADMIN')")
 				.antMatchers("/confidential/**").access("hasRole('ROLE_SUPERADMIN')")
-				.antMatchers("/free/**").access("hasRole('ROLE_ADMIN')")
-				.antMatchers("/free2/**").permitAll()
-				.antMatchers("/bookslist/**").permitAll()
+				.antMatchers("/free/**").permitAll()
+				.antMatchers("/free2/**").access("hasRole('ROLE_USER')")
+				.antMatchers("/booksList/**").hasAnyRole("USER", "ADMIN")
+				.antMatchers("/addBook/**").access("hasRole('ROLE_ADMIN')")
+				.antMatchers("/editBook/**").access("hasRole('ROLE_ADMIN')")
+				.antMatchers("/update/**").access("hasRole('ROLE_ADMIN')")
+				.antMatchers("/delete/**").access("hasRole('ROLE_ADMIN')")
 				.and().formLogin().defaultSuccessUrl("/", false);
-
 	}
-
 }

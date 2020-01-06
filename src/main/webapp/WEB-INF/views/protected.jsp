@@ -24,8 +24,5 @@
         </c:if>
 		<div>Get <a href="protected">protected</a> resource for admin.</div>
 		<div>Get <a href="confidential">confidential</a> resource for superadmin.</div>
-		<footer>
-			<div>Updated by Alex Art from <a href="https://in2circle.com" target="_blank">in2circle.com</a></div>
-		</footer>
 	</body>
 </html>
