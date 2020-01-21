@@ -14,7 +14,7 @@ import org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver;
 //Мы тут определили вью резолвер
 @Configuration
 @EnableWebMvc
-public class WebConfig /*extends WebMvcConfigurerAdapter WebMvcConfigurer*/ {
+public class WebConfig extends WebMvcConfigurerAdapter /*WebMvcConfigurer*/ {
 /*
     //ViewResolver компонент спринга, который будет обрабатывать и искать
     //наши вьюшки в папке WEB-INF
